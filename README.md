@@ -59,24 +59,3 @@ El archivo JavaScript implementa las siguientes funciones:
 4. Repite el sorteo hasta que no queden más nombres.
 
 ---
-
-## 📁 Archivos esperados
-
-- `index.html` → Estructura básica del sitio.
-- `style.css` (opcional) → Estilos para mejorar la interfaz.
-- `script.js` → Contiene toda la lógica explicada anteriormente.
-
----
-
-## 📌 Recomendaciones
-
-- Puedes extender esta lógica para asignar *amigos secretos* entre varias personas de manera cruzada, sin repeticiones.
-- También podrías mejorar la interfaz agregando animaciones, validaciones más complejas o almacenamiento local.
-
----
-
-## 🧑‍💻 Autor
-
-Desarrollado como ejercicio para practicar lógica en JavaScript.
-
----
