@@ -30,6 +30,7 @@ function mostrarListaAmigos() {
 function sortearAmigo(){
     if (amigos.length ===0){ 
     alert("No hay suficientes amigos en la lista para sortear, por favor agrega amigos primero.");
+    document.getElementById("resultado").innerHTML = "";
     return;
     }
     document.getElementById("listaAmigos").innerHTML = "";
